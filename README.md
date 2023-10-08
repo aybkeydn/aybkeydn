@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm currently working on html,css and javascript
+I'm currently working on html,css,javascript and figma.
+
 
 
 ## 🌐 Socials:
