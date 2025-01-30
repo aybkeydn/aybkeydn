@@ -1,5 +1,10 @@
 # 💫 About Me:
-I'm currently working on html,css,javascript and figma.
+Merhaba! Ben Aybüke Aydın, frontend geliştiricisi ve UI/UX tasarımı meraklısı olarak kullanıcı dostu ve görsel açıdan etkileyici dijital deneyimler yaratmaya tutkuyla bağlıyım. HTML, CSS ve JavaScript konularında sağlam bir temele sahibim ve yaratıcı fikirleri gerçeğe dönüştürmekten keyif alıyorum.
+
+🔭 Şu Anda Çalıştıklarım: Mobil uyumlu web tasarımları geliştirme ve modern JavaScript kütüphaneleri üzerine çalışmalar yapıyorum.
+🌱 Öğrenmeye Devam Ettiklerim: React.js, CSS Grid ve tasarım sistemleri gibi konular üzerine kendimi geliştiriyorum.
+🌟 Hedefim: Geliştirme ve tasarım arasındaki boşluğu doldurarak, kullanıcıların hayatını kolaylaştıran etkili arayüzler oluşturmak.
+🎨 Tutkum: Tasarım ve kodlamayı bir araya getirerek her pikseli anlamlı hale getirmek benim için çok önemli.
 
 
 
