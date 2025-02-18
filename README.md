@@ -23,9 +23,3 @@ Merhaba! Ben Aybüke Aydın, frontend geliştiricisi ve tasarım meraklısı ola
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 # 📊 GitHub Stats:
-<div align="center"> <a href="https://github.com/aybkeydn"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aybkeydn&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/> </a> <a href="https://github.com/aybkeydn"> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aybkeydn&theme=radical&hide_border=true" alt="GitHub Streak"/> </a> <a href="https://github.com/aybkeydn"> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aybkeydn&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/> </a> </div>
-
----
-[![](https://visitcount.itsvg.in/api?id=aybkeydn&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
