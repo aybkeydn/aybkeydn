@@ -1,11 +1,10 @@
 # 💫 About Me:
-Merhaba! Ben Aybüke Aydın, frontend geliştiricisi ve UI/UX tasarımı meraklısı olarak kullanıcı dostu ve görsel açıdan etkileyici dijital deneyimler oluşturmaya tutkuyla bağlıyım. HTML, CSS ve JavaScript konularında sağlam bir temele sahibim ve yaratıcı fikirleri gerçeğe dönüştürmekten keyif alıyorum.
+Merhaba! Ben Aybüke Aydın, frontend geliştiricisi ve tasarım meraklısı olarak kullanıcı dostu ve görsel açıdan etkileyici dijital deneyimler oluşturmayı seviyorum. Web tasarımı konusundaki deneyimimi geliştirerek full-stack developer olma yolunda ilerliyorum. Şu anda backend tarafında C#, MSSQL, Dapper ve MongoDB üzerine çalışıyorum.
 
-🔭 Şu Anda Çalıştıklarım: Mobil uyumlu web tasarımları geliştirme ve modern JavaScript kütüphaneleri üzerine çalışmalar yapıyorum.
-🌱 Öğrenmeye Devam Ettiklerim: React.js, CSS Grid ve tasarım sistemleri gibi konular üzerine kendimi geliştiriyorum.
-🌟 Hedefim: Geliştirme ve tasarım arasındaki boşluğu doldurarak, kullanıcıların hayatını kolaylaştıran etkili arayüzler oluşturmak.
-🎨 Tutkum: Tasarım ve kodlamayı bir araya getirerek her pikseli anlamlı hale getirmek benim için çok önemli.
-
+🔭 Şu Anda Çalıştıklarım: Full-stack geliştirme üzerine yoğunlaşarak C#, MSSQL, Dapper ve MongoDB teknolojileriyle backend projeleri geliştiriyorum. Aynı zamanda frontend tarafında modern JavaScript kütüphaneleri ve mobil uyumlu arayüzler oluşturuyorum.
+🌱 Öğrenmeye Devam Ettiklerim: Backend mimarileri, API geliştirme, performans optimizasyonu ve veri yönetimi konularında kendimi geliştiriyorum.
+🌟 Hedefim: Frontend ve backend bilgimi harmanlayarak, güçlü ve kullanıcı dostu web uygulamaları geliştirmek.
+🎨 Tutkum: Tasarım ve kodlamayı bir araya getirerek her pikseli anlamlı hale getirmek benim için önemli.
 
 
 ## 🌐 Socials:
