@@ -25,10 +25,10 @@ Merhaba! Ben Aybüke Aydın, frontend geliştiricisi ve tasarım meraklısı ola
 
 ## 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aybuke-aydin&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aybkeydn&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aybuke-aydin&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aybkeydn&theme=radical" alt="GitHub Streak Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aybuke-aydin&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aybkeyd&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
