@@ -1,13 +1,17 @@
-# 💫 About Me:
-Hello! I am Aybüke Aydın, as a frontend developer and design enthusiast, I like to create user-friendly and visually impressive digital experiences. I am on my way to becoming a full-stack developer by improving my experience in web design. I am currently working on C#, MSSQL, Dapper and MongoDB on the backend side.
+<h2 align="center"> 🚀 About Me</h2>
 
-🔭 What I'm Working on at the Moment: I'm developing backend projects with C#, MSSQL, Dapper and MongoDB technologies, focusing on full-stack development. At the same time, I create modern JavaScript libraries and mobile-friendly interfaces on the frontend side.
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200px"/>
+</p>
 
-🌱 What I Continue to Learn: I am improving myself in backend architectures, API development, performance optimization and data management.
+🎨 **Frontend Developer & Design Enthusiast**  
+💻 Currently working on **C#, MSSQL, Dapper, MongoDB**  
+📚 Learning **Full-Stack Development**  
+🎯 Goal: Creating **user-friendly & powerful applications**  
+🎨 Passion: **Combining design & development for a meaningful experience**  
 
-🌟 My Goal: To develop powerful and user-friendly web applications by blending my frontend and backend knowledge.
+---
 
-🎨 My Passion: It is important for me to combine design and Decode to make every pixel meaningful.
 
 
 ## 🌐 Socials:
