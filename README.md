@@ -1,5 +1,14 @@
 <h2 align="center"> 🚀 About Me</h2>
 
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hello, I'm <span style="color: #ff66c4;">Aybüke Aydın</span>! 
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F7B801&center=true&vCenter=true&width=435&lines=Frontend+Developer;Full-Stack+Learner;Passionate+about+Design+%26+Code" alt="Typing SVG Animation" />
+</p>
+
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200px"/>
 </p>
@@ -10,11 +19,6 @@
 🎯 Goal: Creating **user-friendly & powerful applications**  
 🎨 Passion: **Combining design & development for a meaningful experience**  
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aybkeydn&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aybkeydn&theme=radical" width="48%"/>
-</p>
 
 
 ## 🌐 Socials:
