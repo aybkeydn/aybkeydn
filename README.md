@@ -10,8 +10,11 @@
 🎯 Goal: Creating **user-friendly & powerful applications**  
 🎨 Passion: **Combining design & development for a meaningful experience**  
 
----
-
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aybkeydn&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aybkeydn&theme=radical" width="48%"/>
+</p>
 
 
 ## 🌐 Socials:
