@@ -12,7 +12,7 @@
 </p>
 
 🎨 **Frontend Developer & Design Enthusiast**  
-💻 Currently working on **C#, MSSQL, Dapper, MongoDB**  
+💻 Currently working on **ASP.NET,C#, MSSQL**  
 📚 Learning **Full-Stack Development**  
 🎯 Goal: Creating **user-friendly & powerful applications**  
 🎨 Passion: **Combining design & development for a meaningful experience**  
