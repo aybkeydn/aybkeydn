@@ -11,7 +11,7 @@
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200px"/>
 </p>
 
-🎨 **Frontend Developer & Design Enthusiast**  
+🎨 **Fullstack Developer & Design Enthusiast**  
 💻 Currently working on **ASP.NET,C#, MSSQL**  
 📚 Learning **Full-Stack Development**  
 🎯 Goal: Creating **user-friendly & powerful applications**  
