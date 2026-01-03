@@ -40,12 +40,5 @@
 
 
 
-## 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aybkeydn&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
- 
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aybkeydn&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+
 
