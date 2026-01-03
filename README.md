@@ -35,6 +35,21 @@
 
 ---
 
+## 📈 GitHub Activity:
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=radical&hide_border=true" width="100%"/>
+</p>
+
+<div align="center">
+
+![GitHub commits](https://img.shields.io/github/commit-activity/m/USERNAME/USERNAME?style=for-the-badge&color=ff66c4)
+![Total commits](https://img.shields.io/badge/Total%20Commits-SOON-ff66c4?style=for-the-badge)
+
+</div>
+
+---
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aybüke-aydin-568a89240/) 
 
