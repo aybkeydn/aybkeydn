@@ -38,12 +38,12 @@
 ## 📈 GitHub Activity:
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=radical&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aybkeydn&theme=radical&hide_border=true" width="100%"/>
 </p>
 
 <div align="center">
 
-![GitHub commits](https://img.shields.io/github/commit-activity/m/USERNAME/USERNAME?style=for-the-badge&color=ff66c4)
+![GitHub commits](https://img.shields.io/github/commit-activity/m/aybkeydn/aybkeydn?style=for-the-badge&color=ff66c4)
 ![Total commits](https://img.shields.io/badge/Total%20Commits-SOON-ff66c4?style=for-the-badge)
 
 </div>
@@ -51,7 +51,8 @@
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aybüke-aydin-568a89240/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aybüke-aydin-568a89240/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/aybkeydn) 
 
 ---
 
@@ -75,10 +76,10 @@
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aybkeydn&show_icons=true&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aybkeydn&theme=radical&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aybkeydn&layout=compact&theme=radical&hide_border=true"/>
 </p>
