@@ -1,590 +1,193 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Aybüke Aydın - Full Stack Developer</title>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Aybüke Aydın
+</h1>
 
-        body {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            min-height: 100vh;
-            font-family: 'Fira Code', monospace;
-            color: #fff;
-            padding: 20px;
-        }
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F7B801&center=true&vCenter=true&width=435&lines=Full-stack+Developer;Design+Enthusiast;Code+Artist;Building+Amazing+Apps" alt="Typing SVG Animation" />
+</p>
 
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-        }
+<div align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200px"/>
+</div>
 
-        .header {
-            text-align: center;
-            margin-bottom: 50px;
-            animation: fadeInDown 0.8s ease;
-        }
+---
 
-        .header h1 {
-            font-size: 3.5em;
-            margin-bottom: 10px;
-            background: linear-gradient(45deg, #ff66c4, #ffd700);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
-        }
+<div align="center">
 
-        .typing-text {
-            font-size: 1.3em;
-            color: #fff;
-            min-height: 40px;
-        }
+### 🎯 Current Status
+![Status](https://img.shields.io/badge/Status-Available-brightgreen?style=for-the-badge&logo=github)
+![Working On](https://img.shields.io/badge/Working%20On-ASP.NET%20Projects-blue?style=for-the-badge&logo=dotnet)
+![Learning](https://img.shields.io/badge/Learning-Full%20Stack-orange?style=for-the-badge)
 
-        .status-badge {
-            display: inline-block;
-            padding: 8px 16px;
-            background: rgba(255, 102, 196, 0.3);
-            border: 2px solid #ff66c4;
-            border-radius: 20px;
-            margin-top: 15px;
-            font-size: 0.9em;
-            animation: pulse 2s infinite;
-        }
+</div>
 
-        .status-badge::before {
-            content: '● ';
-            color: #4ade80;
-            margin-right: 5px;
-        }
+---
 
-        @keyframes pulse {
-            0%, 100% { opacity: 1; }
-            50% { opacity: 0.7; }
-        }
+## 🎨 About Me
 
-        .main-grid {
-            display: grid;
-            grid-template-columns: 1fr 1fr;
-            gap: 30px;
-            margin-bottom: 40px;
-        }
+I'm a passionate **Full-Stack Developer** and **Design Enthusiast** from Turkey, currently mastering **ASP.NET, C#, and MSSQL**. I love combining elegant design with powerful code to create meaningful, user-friendly applications. Always learning, always building! 🚀
 
-        .card {
-            background: rgba(255, 255, 255, 0.1);
-            backdrop-filter: blur(10px);
-            border: 1px solid rgba(255, 255, 255, 0.2);
-            border-radius: 15px;
-            padding: 25px;
-            animation: fadeInUp 0.8s ease;
-            transition: transform 0.3s ease, box-shadow 0.3s ease;
-        }
+- 💻 **Currently Working On:** E-Commerce Platform with ASP.NET Core
+- 📚 **Learning:** Advanced Full-Stack Development & Microservices
+- 🎯 **Goal:** Building portfolio projects that make a real impact
+- 🎨 **Passion:** Merging design & development for incredible UX
+- 💼 **Open To:** Freelance & Full-time Opportunities
 
-        .card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 10px 30px rgba(255, 102, 196, 0.3);
-        }
+---
 
-        .card h2 {
-            color: #ff66c4;
-            margin-bottom: 15px;
-            font-size: 1.5em;
-            display: flex;
-            align-items: center;
-            gap: 10px;
-        }
+## 📊 GitHub Stats & Activity
 
-        .stats-grid {
-            display: grid;
-            grid-template-columns: 1fr 1fr;
-            gap: 15px;
-            margin-top: 15px;
-        }
+<div align="center">
 
-        .stat-box {
-            background: rgba(255, 255, 255, 0.05);
-            padding: 15px;
-            border-radius: 10px;
-            text-align: center;
-            border-left: 3px solid #ffd700;
-        }
+### 🔥 Contribution Streak & Activity
+![Commits](https://img.shields.io/badge/Total%20Commits-1.2K%2B-ff66c4?style=for-the-badge&logo=github)
+![Repositories](https://img.shields.io/badge/Repositories-47%2B-blue?style=for-the-badge&logo=github)
+![Projects](https://img.shields.io/badge/Projects-15%2B-green?style=for-the-badge)
+![Streak](https://img.shields.io/badge/Current%20Streak-42%20Days-red?style=for-the-badge&logo=github)
 
-        .stat-number {
-            font-size: 2em;
-            font-weight: bold;
-            color: #ffd700;
-            margin-bottom: 5px;
-        }
+</div>
 
-        .stat-label {
-            font-size: 0.9em;
-            color: #ccc;
-        }
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aybkeydn&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff66c4&icon_color=ffd700" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aybkeydn&theme=radical&hide_border=true&background=0d1117" height="180"/>
+</p>
 
-        .tech-stack {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 10px;
-            margin-top: 15px;
-        }
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aybkeydn&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff66c4"/>
+</p>
 
-        .tech-badge {
-            background: linear-gradient(135deg, #667eea, #764ba2);
-            padding: 6px 12px;
-            border-radius: 20px;
-            font-size: 0.85em;
-            border: 1px solid rgba(255, 255, 255, 0.3);
-        }
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aybkeydn&theme=radical&hide_border=true&bg_color=0d1117" width="100%"/>
+</p>
 
-        .activity-timeline {
-            position: relative;
-            padding: 20px 0;
-        }
+---
 
-        .timeline-item {
-            display: flex;
-            margin-bottom: 20px;
-            padding-left: 40px;
-            position: relative;
-        }
+## 📈 Quick Stats
 
-        .timeline-item::before {
-            content: '';
-            position: absolute;
-            left: 5px;
-            top: 0;
-            width: 15px;
-            height: 15px;
-            background: #ff66c4;
-            border-radius: 50%;
-            border: 3px solid #667eea;
-        }
+| Metric | Count |
+|--------|-------|
+| 🔄 Total Commits | 1,247+ |
+| 📁 Repositories | 47+ |
+| 🎯 Projects Completed | 15+ |
+| 🔥 Current Streak | 42 Days |
+| 🌍 Contributions (This Year) | 156+ |
+| 💻 Languages Used | 8+ |
 
-        .timeline-item::after {
-            content: '';
-            position: absolute;
-            left: 12px;
-            top: 15px;
-            width: 2px;
-            height: 100%;
-            background: rgba(255, 102, 196, 0.3);
-        }
+---
 
-        .timeline-item:last-child::after {
-            display: none;
-        }
+## 🛠️ Tech Stack
 
-        .timeline-content {
-            flex: 1;
-        }
+### **Languages**
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-        .timeline-title {
-            color: #ffd700;
-            font-weight: bold;
-            margin-bottom: 5px;
-        }
+### **Frameworks & Libraries**
+![ASP.NET](https://img.shields.io/badge/ASP.NET-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-        .timeline-desc {
-            color: #ccc;
-            font-size: 0.9em;
-        }
+### **Databases**
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Dapper](https://img.shields.io/badge/Dapper-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-        .github-graphs {
-            display: grid;
-            grid-template-columns: 1fr;
-            gap: 30px;
-            margin-bottom: 40px;
-        }
+### **Tools & Design**
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
+![Canva](https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
 
-        .graph-card {
-            background: rgba(255, 255, 255, 0.1);
-            backdrop-filter: blur(10px);
-            border: 1px solid rgba(255, 255, 255, 0.2);
-            border-radius: 15px;
-            padding: 25px;
-            animation: fadeInUp 0.8s ease;
-        }
+---
 
-        .graph-card h2 {
-            color: #ff66c4;
-            margin-bottom: 20px;
-            font-size: 1.3em;
-        }
+## 🚀 Recent Activity
 
-        .contribution-graph {
-            background: rgba(0, 0, 0, 0.3);
-            padding: 20px;
-            border-radius: 10px;
-            margin-bottom: 15px;
-            overflow-x: auto;
-        }
+| Activity | Project | Time |
+|----------|---------|------|
+| 🎉 **Pushed** | E-Commerce API - User Authentication | 5 hours ago |
+| 🔀 **Merged PR** | Design System Components Update | 1 day ago |
+| 📦 **Created Repo** | Portfolio Website Project | 2 days ago |
+| ✅ **Code Review** | Reviewed 3 PRs with suggestions | 3 days ago |
+| 🚀 **Deployed** | ASP.NET Web Application | 1 week ago |
 
-        .contribution-week {
-            display: inline-flex;
-            flex-direction: column;
-            margin-right: 3px;
-            gap: 2px;
-        }
+---
 
-        .contribution-day {
-            width: 12px;
-            height: 12px;
-            border-radius: 2px;
-            background: rgba(255, 255, 255, 0.1);
-        }
+## 💼 Featured Projects
 
-        .contribution-day.active {
-            background: linear-gradient(135deg, #ff66c4, #ffd700);
-        }
+### 🛒 E-Commerce Platform
+- **Tech:** ASP.NET Core, C#, MSSQL, JavaScript
+- **Features:** User Auth, Product Management, Payment Integration
+- **Status:** In Development 🔄
 
-        .stats-row {
-            display: grid;
-            grid-template-columns: repeat(3, 1fr);
-            gap: 15px;
-            margin-top: 20px;
-        }
+### 📱 Portfolio Website
+- **Tech:** HTML5, CSS3, JavaScript, Figma Design
+- **Features:** Responsive Design, Smooth Animations, Modern UI
+- **Status:** Completed ✅
 
-        .streak-card {
-            background: rgba(255, 215, 0, 0.1);
-            padding: 15px;
-            border-radius: 10px;
-            border-left: 3px solid #ffd700;
-            text-align: center;
-        }
+### 💾 Database Design System
+- **Tech:** MSSQL, Dapper ORM
+- **Features:** Advanced Queries, Data Optimization
+- **Status:** Completed ✅
 
-        .streak-number {
-            font-size: 2.5em;
-            color: #ffd700;
-            font-weight: bold;
-        }
+---
 
-        .streak-label {
-            color: #ccc;
-            margin-top: 5px;
-        }
+## 📚 Learning Journey
 
-        .languages {
-            display: grid;
-            grid-template-columns: 1fr 1fr;
-            gap: 15px;
-            margin-top: 15px;
-        }
+```
+2024 → Mastered C# & ASP.NET Basics
+2024 → Advanced JavaScript & Frontend
+2025 → Full-Stack Development Deep Dive ⭐ (Current)
+2025 → Microservices Architecture (Next)
+```
 
-        .language {
-            background: rgba(255, 255, 255, 0.05);
-            padding: 12px;
-            border-radius: 8px;
-            border-left: 3px solid #ff66c4;
-        }
+---
 
-        .lang-name {
-            color: #ffd700;
-            font-weight: bold;
-            margin-bottom: 5px;
-        }
+## 🌐 Connect With Me
 
-        .lang-bar {
-            background: rgba(255, 255, 255, 0.1);
-            height: 6px;
-            border-radius: 3px;
-            overflow: hidden;
-            margin-top: 5px;
-        }
+<div align="center">
 
-        .lang-fill {
-            height: 100%;
-            background: linear-gradient(90deg, #ff66c4, #ffd700);
-        }
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aybüke-aydin-568a89240/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aybkeydn)
+[![Email](https://img.shields.io/badge/Email-ff66c4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aybuke@example.com)
 
-        .footer {
-            text-align: center;
-            margin-top: 50px;
-            padding: 20px;
-            border-top: 1px solid rgba(255, 255, 255, 0.2);
-        }
+</div>
 
-        .social-links {
-            display: flex;
-            gap: 15px;
-            justify-content: center;
-            margin-top: 15px;
-        }
+---
 
-        .social-link {
-            display: inline-flex;
-            align-items: center;
-            justify-content: center;
-            width: 45px;
-            height: 45px;
-            background: rgba(255, 102, 196, 0.2);
-            border: 1px solid #ff66c4;
-            border-radius: 50%;
-            color: #ff66c4;
-            text-decoration: none;
-            transition: all 0.3s ease;
-            font-size: 1.3em;
-        }
+## 💡 Fun Facts
 
-        .social-link:hover {
-            background: #ff66c4;
-            color: #667eea;
-            transform: translateY(-3px);
-        }
+- 🎨 I believe great code should be as beautiful as great design
+- 📖 Always reading documentation & learning new technologies
+- 🎮 Gamer when not coding
+- 🌙 Night owl - best ideas come at 2 AM ✨
+- ☕ Coffee is my programming fuel
 
-        @keyframes fadeInDown {
-            from {
-                opacity: 0;
-                transform: translateY(-30px);
-            }
-            to {
-                opacity: 1;
-                transform: translateY(0);
-            }
-        }
+---
 
-        @keyframes fadeInUp {
-            from {
-                opacity: 0;
-                transform: translateY(30px);
-            }
-            to {
-                opacity: 1;
-                transform: translateY(0);
-            }
-        }
+## 📊 This Year's Contribution
 
-        @media (max-width: 768px) {
-            .main-grid {
-                grid-template-columns: 1fr;
-            }
+<div align="center">
 
-            .stats-row {
-                grid-template-columns: 1fr;
-            }
+![Contributions](https://img.shields.io/badge/Contributions%202025-156%2B-brightgreen?style=for-the-badge)
+![Commits](https://img.shields.io/badge/Commits%202025-450%2B-blue?style=for-the-badge)
+![PRs](https://img.shields.io/badge/PRs%202025-28%2B-purple?style=for-the-badge)
 
-            .languages {
-                grid-template-columns: 1fr;
-            }
+</div>
 
-            .header h1 {
-                font-size: 2em;
-            }
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <!-- Header -->
-        <div class="header">
-            <h1>👋 Aybüke Aydın</h1>
-            <div class="typing-text">Full Stack Developer | Design Enthusiast | Code Artist</div>
-            <div class="status-badge">Available for Freelance & Full-time</div>
-        </div>
+---
 
-        <!-- Main Grid -->
-        <div class="main-grid">
-            <!-- About Card -->
-            <div class="card">
-                <h2>🎨 About Me</h2>
-                <p style="line-height: 1.6;">Passionate full-stack developer combining elegant design with powerful code. Currently mastering ASP.NET, C#, and modern web technologies. Creating user-friendly applications that make a difference.</p>
-                <div class="tech-stack">
-                    <span class="tech-badge">ASP.NET</span>
-                    <span class="tech-badge">C#</span>
-                    <span class="tech-badge">JavaScript</span>
-                    <span class="tech-badge">MSSQL</span>
-                    <span class="tech-badge">MongoDB</span>
-                </div>
-            </div>
+<div align="center">
 
-            <!-- Stats Card -->
-            <div class="card">
-                <h2>📊 Quick Stats</h2>
-                <div class="stats-grid">
-                    <div class="stat-box">
-                        <div class="stat-number">47+</div>
-                        <div class="stat-label">Repositories</div>
-                    </div>
-                    <div class="stat-box">
-                        <div class="stat-number">1.2K+</div>
-                        <div class="stat-label">Total Commits</div>
-                    </div>
-                    <div class="stat-box">
-                        <div class="stat-number">15+</div>
-                        <div class="stat-label">Projects</div>
-                    </div>
-                    <div class="stat-box">
-                        <div class="stat-number">8</div>
-                        <div class="stat-label">Tech Stacks</div>
-                    </div>
-                </div>
-            </div>
+### ⭐ Support My Work
+If you find my projects useful, please consider giving them a ⭐
 
-            <!-- Current Status Card -->
-            <div class="card">
-                <h2>🔄 Current Status</h2>
-                <div class="activity-timeline">
-                    <div class="timeline-item">
-                        <div class="timeline-content">
-                            <div class="timeline-title">🚀 Working On</div>
-                            <div class="timeline-desc">E-Commerce Platform with ASP.NET</div>
-                        </div>
-                    </div>
-                    <div class="timeline-item">
-                        <div class="timeline-content">
-                            <div class="timeline-title">📚 Learning</div>
-                            <div class="timeline-desc">Advanced Full-Stack Development</div>
-                        </div>
-                    </div>
-                    <div class="timeline-item">
-                        <div class="timeline-content">
-                            <div class="timeline-title">🎯 Goal</div>
-                            <div class="timeline-desc">Build Amazing Portfolio Projects</div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+![Profile Views](https://komarev.com/ghpvc/?username=aybkeydn&style=for-the-badge&color=ff66c4)
 
-            <!-- Tech Stack Card -->
-            <div class="card">
-                <h2>💻 Tech Stack</h2>
-                <div style="margin-top: 15px;">
-                    <strong style="color: #ff66c4;">Languages:</strong>
-                    <div class="tech-stack" style="margin-top: 8px;">
-                        <span class="tech-badge">C#</span>
-                        <span class="tech-badge">JavaScript</span>
-                        <span class="tech-badge">HTML5</span>
-                        <span class="tech-badge">CSS3</span>
-                    </div>
-                </div>
-                <div style="margin-top: 15px;">
-                    <strong style="color: #ff66c4;">Databases:</strong>
-                    <div class="tech-stack" style="margin-top: 8px;">
-                        <span class="tech-badge">MSSQL</span>
-                        <span class="tech-badge">MongoDB</span>
-                        <span class="tech-badge">Dapper</span>
-                    </div>
-                </div>
-                <div style="margin-top: 15px;">
-                    <strong style="color: #ff66c4;">Tools & Design:</strong>
-                    <div class="tech-stack" style="margin-top: 8px;">
-                        <span class="tech-badge">Figma</span>
-                        <span class="tech-badge">Adobe PS</span>
-                        <span class="tech-badge">Git</span>
-                        <span class="tech-badge">GitHub</span>
-                    </div>
-                </div>
-            </div>
-        </div>
+**Made with 💜 by Aybüke Aydın**
 
-        <!-- GitHub Stats Section -->
-        <div class="github-graphs">
-            <!-- Contribution Stats -->
-            <div class="graph-card">
-                <h2>🔥 GitHub Contribution Streak</h2>
-                <div class="stats-row">
-                    <div class="streak-card">
-                        <div class="streak-number">42</div>
-                        <div class="streak-label">Current Streak</div>
-                    </div>
-                    <div class="streak-card">
-                        <div class="streak-number">1,247</div>
-                        <div class="streak-label">Total Commits</div>
-                    </div>
-                    <div class="streak-card">
-                        <div class="streak-number">156</div>
-                        <div class="streak-label">Contributions</div>
-                    </div>
-                </div>
-            </div>
+*Always learning, always building, always improving!* 🚀
 
-            <!-- Languages -->
-            <div class="graph-card">
-                <h2>📝 Top Languages</h2>
-                <div class="languages">
-                    <div class="language">
-                        <div class="lang-name">JavaScript</div>
-                        <div class="lang-bar">
-                            <div class="lang-fill" style="width: 85%"></div>
-                        </div>
-                        <small>85%</small>
-                    </div>
-                    <div class="language">
-                        <div class="lang-name">C#</div>
-                        <div class="lang-bar">
-                            <div class="lang-fill" style="width: 70%"></div>
-                        </div>
-                        <small>70%</small>
-                    </div>
-                    <div class="language">
-                        <div class="lang-name">HTML/CSS</div>
-                        <div class="lang-bar">
-                            <div class="lang-fill" style="width: 80%"></div>
-                        </div>
-                        <small>80%</small>
-                    </div>
-                    <div class="language">
-                        <div class="lang-name">SQL</div>
-                        <div class="lang-bar">
-                            <div class="lang-fill" style="width: 75%"></div>
-                        </div>
-                        <small>75%</small>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Recent Activity -->
-            <div class="graph-card">
-                <h2>⚡ Recent Activity</h2>
-                <div class="activity-timeline">
-                    <div class="timeline-item">
-                        <div class="timeline-content">
-                            <div class="timeline-title">Pushed to E-Commerce API</div>
-                            <div class="timeline-desc">Implemented user authentication system • 5 hours ago</div>
-                        </div>
-                    </div>
-                    <div class="timeline-item">
-                        <div class="timeline-content">
-                            <div class="timeline-title">Merged Pull Request</div>
-                            <div class="timeline-desc">Design System Components Update • 1 day ago</div>
-                        </div>
-                    </div>
-                    <div class="timeline-item">
-                        <div class="timeline-content">
-                            <div class="timeline-title">Created New Repository</div>
-                            <div class="timeline-desc">Portfolio Website Project Started • 2 days ago</div>
-                        </div>
-                    </div>
-                    <div class="timeline-item">
-                        <div class="timeline-content">
-                            <div class="timeline-title">Code Review Complete</div>
-                            <div class="timeline-desc">Reviewed 3 pull requests with suggestions • 3 days ago</div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <!-- Footer -->
-        <div class="footer">
-            <h3 style="color: #ff66c4; margin-bottom: 10px;">Let's Connect! 🚀</h3>
-            <p>Always open to exciting projects and collaborations</p>
-            <div class="social-links">
-                <a href="https://github.com/aybkeydn" class="social-link" title="GitHub">
-                    <span>🐙</span>
-                </a>
-                <a href="https://linkedin.com/in/aybüke-aydin-568a89240/" class="social-link" title="LinkedIn">
-                    <span>in</span>
-                </a>
-                <a href="mailto:your@email.com" class="social-link" title="Email">
-                    <span>✉️</span>
-                </a>
-            </div>
-            <p style="margin-top: 20px; color: #999; font-size: 0.9em;">Made with 💜 by Aybüke Aydın</p>
-        </div>
-    </div>
-</body>
-</html>
+</div>
